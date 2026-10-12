@@ -1,2 +1,2 @@
 # LockBack
-A test website for messaging to other students to chat
+A messaging website for students to chat by using firebase hosting
